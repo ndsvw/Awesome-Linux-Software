@@ -221,7 +221,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [OracleDB](http://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html) - Sistema de gerenciamento de banco de dados objeto-relacional produzido e comercializado pela Oracle Corporation, um dos mecanismos de banco de dados relacionais mais confiáveis e amplamente utilizados.
 - [Percona MongoDB](https://www.percona.com/software/mongo-database/percona-server-for-mongodb) - O Servidor Percona para MongoDB fornece todos os recursos e benefícios do MongoDB Community Server. [![Open-Source Software][oss icon]](https://github.com/percona/percona-server-mongodb)
 - [Percona Monitoring](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Percona Monitoring and Management (PMM) é uma plataforma gratuita e de código aberto para gerenciar e monitorar o desempenho do MySQL, MariaDB e MongoDB. Você pode executar o PMM em seu próprio ambiente para obter a máxima segurança e confiabilidade. Ele fornece uma análise minuciosa baseada no tempo para servidores MySQL, MariaDB e MongoDB para garantir que seus dados funcionem o mais eficientemente possível. [![Open-Source Software][oss icon]](https://github.com/percona/pmm-server)
-- [Percona MySQL](https://www.percona.com/software/mysql-database/percona-server) - O Servidor Percona para MySQL é uma substituição gratuita, totalmente compatível, aprimorada e de código aberto para o MySQL que oferece desempenho, escalabilidade e instrumentação superiores. [![Open-Source Software][oss icon]](https://github.com/percona/percona-server)
+- [Percona MySQL](https://www.percona.com/mysql/software/percona-server-for-mysql) - O Servidor Percona para MySQL é uma substituição gratuita, totalmente compatível, aprimorada e de código aberto para o MySQL que oferece desempenho, escalabilidade e instrumentação superiores. [![Open-Source Software][oss icon]](https://github.com/percona/percona-server)
 - [Percona XtraDB Cluster](https://www.percona.com/software/mysql-database/percona-xtradb-cluster) - Percona XtraDB Cluster é uma solução ativa/ativa de alta disponibilidade e alta escalabilidade de código aberto para agrupamento MySQL. Ele integra o Percona Server e o Percona XtraBackup com a biblioteca Codership Galera de soluções de alta disponibilidade do MySQL em um único pacote que permite que você crie um cluster de alta disponibilidade MySQL de baixo custo. [![Open-Source Software][oss icon]](https://github.com/percona/percona-xtradb-cluster)
 - [![Open-Source Software][oss icon]](https://github.com/dbcli/pgcli) [pgcli](https://www.pgcli.com/) - Pgcli is a command line interface for Postgres with auto-completion and syntax highlighting.
 - [PostgreSQL](https://www.postgresql.org/download/) - O PostgreSQL é um poderoso sistema de banco de dados de objeto-relacional de código aberto com mais de 15 anos de desenvolvimento. O PostgreSQL não é controlado por qualquer corporação ou outra entidade privada e o código fonte está disponível gratuitamente. [![Open-Source Software][oss icon]](https://github.com/postgres/postgres)
@@ -322,7 +322,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [Peruse](https://peruse.kde.org/) - Uma maneira agradável de ler quadrinhos..[![Open-Source Software][oss icon]](https://download.kde.org/stable/peruse/peruse-1.2.tar.xz.mirrorlist) ![Freeware][freeware icon]
 - [qpdf](https://launchpad.net/qpdfview) - qpdfview é um visualizador de documentos com guias. [![Open-Source Software][oss icon]](https://launchpad.net/qpdfview) ![Freeware][freeware icon]
 - [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil é um editor de eBook multi-plataforma EPUB.[![Open-Source Software][oss icon]](https://github.com/Sigil-Ebook/Sigil) ![Freeware][freeware icon]
-- [Zathura](https://pwmt.org/projects/zathura/) - Zathura é um visualizador de documentos altamente personalizável e funcional. [![Open-Source Software][oss icon]](https://git.pwmt.org/pwmt/zathura.git) ![Freeware][freeware icon]
+- [Zathura](https://pwmt.org/projects/zathura/) - Zathura é um visualizador de documentos altamente personalizável e funcional. [![Open-Source Software][oss icon]](https://git.pwmt.org/pwmt/zathura) ![Freeware][freeware icon]
 
 ### Editores
 
@@ -497,7 +497,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [![Open-Source Software][oss icon]](https://sourceforge.net/p/nethack/NetHack/ci/NetHack-3.6.0/tree/) [Nethack](https://www.nethack.org/) - Open-source rogue-like with ASCII graphics.
 - [![Open-Source Software][oss icon]](https://github.com/triplea-game/triplea/) [TripleA](http://www.triplea-game.org/) - Open source grand strategy game with "Axis and Allies" game rules.
 - [![Open-Source Software][oss icon]](https://github.com/Warzone2100/warzone2100) [Warzone 2100](https://www.wz2100.net/) - Open-source real-time strategy game that takes place after a nuclear war.
-- [![Open-Source Software][oss icon]](https://bazaar.launchpad.net/~widelands-dev/widelands/trunk/changes) [Widelands](https://wl.widelands.org/) - Widelands is a open source RTS game with singleplayer campaigns and a multiplayer mode inspired by Settlers II.
+- [![Open-Source Software][oss icon]](https://bazaar.launchpad.net/~widelands-dev/widelands/trunk/changes) [Widelands](https://www.widelands.org/) - Widelands is a open source RTS game with singleplayer campaigns and a multiplayer mode inspired by Settlers II.
 
 #### Estratégia Baseada em Turnos
 
@@ -734,7 +734,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [![Open-Source Software][oss icon]](https://git.calcurse.org/calcurse.git/) [calcurse](http://calcurse.org/) - A calendar and scheduling application for the command line.
 - [California](https://wiki.gnome.org/Apps/California) - Complete Calendar app replacement which uses natural language for creating events.
 - ![Nonfree][money icon] [Everdo](https://everdo.net/linux) - TODO list and Getting Things Done® app for all platforms. Beautiful, powerful, not SaaS, free version available.
-- [Gnome Pomodoro](https://gnomepomodoro.org/#download) - A full-featured pomodoro timer for GNOME. [![Open-Source Software][oss icon]](https://github.com/codito/gnome-pomodoro)
+- [Gnome Pomodoro](https://gnomepomodoro.org/#download) - A full-featured pomodoro timer for GNOME. [![Open-Source Software][oss icon]](https://github.com/gnome-pomodoro/gnome-pomodoro)
 - [Go For It](http://manuel-kehl.de/projects/go-for-it/) - Go For It! is a simple and stylish productivity app, featuring a to-do list, merged with a timer that keeps your focus on the current task.
 - [My Todo](https://github.com/mohamed-aziz/mytodo) - Mytodo is an open source to-do list program that puts you, the user, in command of everything. [![Open-Source Software][oss icon]](https://github.com/mohamed-aziz/mytodo)
 - [Pomodone App](http://pomodoneapp.com/) - PomoDoneApp is the easiest way to track your workflow using Pomodoro techniqueÂ®, on top of your current task management service.![Nonfree][money icon]
@@ -820,7 +820,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [RXVT](https://rxvt.sourceforge.net/) - A terminal emulator for X11, a popular replacement for the standard â€˜xtermâ€™. [![Open-Source Software][oss icon]](https://sourceforge.net/projects/rxvt/)
 - [Sakura](https://launchpad.net/sakura) - Simple but powerful libvte based terminal emulator, supporting utf-8 and input methods as provided by gtk+ and pango libraries. [![Open-Source Software][oss icon]](https://launchpad.net/sakura)
 - [![Open-Source Software][oss icon]](https://launchpad.net/terminator) [Terminator](http://gnometerminator.blogspot.com/p/introduction.html) - itâ€™s quite clear that the most powerful terminal emulator on Linux is the feature-filled Terminator.
-- [Terminology](https://www.enlightenment.org/about-terminology) - The Pretty and lightweight Terminal from the Enlightenment Desktop, it's highly configurable, it works in X11, under a Wayland compositor and even directly in the framebuffer on Linux. Replace your boring text-mode VT with a graphical one that requires no display system. [![Open-Source Software][oss icon]](https://github.com/billiob/terminology)
+- [Terminology](https://www.enlightenment.org/about-terminology) - The Pretty and lightweight Terminal from the Enlightenment Desktop, it's highly configurable, it works in X11, under a Wayland compositor and even directly in the framebuffer on Linux. Replace your boring text-mode VT with a graphical one that requires no display system. [![Open-Source Software][oss icon]](https://github.com/borisfaure/terminology)
 - [Terminus](https://eugeny.github.io/terminus/) - modern, highly configurable terminal app based on web technologies. [![Open-Source Software][oss icon]](https://github.com/Eugeny/terminus)
 - [Termite](https://github.com/thestinger/termite) - A keyboard-centric VTE-based terminal, aimed at use within a window manager with tiling and/or tabbing support. [![Open-Source Software][oss icon]](https://github.com/thestinger/termite)
 - [Termit](https://github.com/nonstop/termit/wiki) - Simple terminal emulator based on vte library, extensible via Lua. [![Open-Source Software][oss icon]](https://github.com/nonstop/termit/wiki)
@@ -866,7 +866,7 @@ Duas versões chinesas desta lista estão disponíveis [aqui](https://github.com
 - [KVM](http://www.linux-kvm.org/page/Main_Page) - KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V). [![Open-Source Software][oss icon]](https://sourceforge.net/projects/kvm/files/)
 - [LastPass](https://lastpass.com/misc_download2.php) - LastPass is a crossplatform freemium password management service that stores encrypted passwords in private accounts.
 - [Mosh](https://mosh.org/#getting) - Mosh is a Remote terminal application that allows roaming, supports intermittent connectivity, and provides intelligent local echo and line editing of user keystrokes. [![Open-Source Software][oss icon]](https://github.com/mobile-shell/mosh)
-- [Nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application [![Open-Source Software][oss icon]](https://github.com/jiahaog/nativefier)
+- [Nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application [![Open-Source Software][oss icon]](https://github.com/nativefier/nativefier)
 - [NetData](https://my-netdata.io) - Next-gen web based real-time performance and health monitoring for physical and virtual servers, containers and IoT devices. It is also a distributed `statsd` server with automatic visualization for APM (applications performance monitoring). [![Open-Source Software][oss icon]](https://github.com/firehol/netdata)
 - [Ncdu](https://dev.yorhel.nl/ncdu) - Disk usage analyzer with an ncurses interface. [![Open-Source Software][oss icon]](https://g.blicky.net/ncdu.git/)
 - [PeaExtractor](http://www.peazip.org/peaextractor-unace-unrar-unzip.html) A utility designed to unzip files and be as frictionless as possible, and easy to use as possible. [![Open-Source Software][oss icon]](https://sourceforge.net/projects/peaextractor/)
@@ -1220,7 +1220,7 @@ _Todos do @ reddit.com/r/linux, reddit.com/r/ubuntu, vozforums.com e outros fÃ�
 
 ## Não sabe como contribuir?
 
-- [How to Use Github](https://guides.github.com/activities/forking/)
+- [How to Use Github](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project)
 - [How to Git from the Command Line](https://rogerdudler.github.io/git-guide/)
 - [What is Markdown?](https://github.com/LewisVo/Markdown-Tutorial) - Markdown is the writing method used to create this list, if you want to know how to format properly, it's best that you learn how to use Github Markdown.
 - [Alternative Markdown Guide:](https://guides.github.com/features/mastering-markdown/)

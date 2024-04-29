@@ -261,7 +261,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [OracleDB](http://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html) - Un sistema de gestión de bases de datos producido por Oracle Corporation. Es una base de datos basada en objetos.
 - [![Open-Source Software][oss icon]](https://github.com/percona/percona-server-mongodb) [Percona MongoDB](https://www.percona.com/software/mongo-database/percona-server-for-mongodb) - El servidor Percona para MongoDB es un servidor alternativo para MongoDB.
 - [![Open-Source Software][oss icon]](https://github.com/percona/pmm-server) [Percona Monitoring](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - Percona Monitoring and Management (PMM) es una plataforma de código abierto para administrar y supervisar el rendimiento de MySQL, MariaDB y MongoDB.
-- [![Open-Source Software][oss icon]](https://github.com/percona/percona-server) [Percona MySQL](https://www.percona.com/software/mysql-database/percona-server) - El servidor Percona para MySQL es un reemplazo de código abierto, compatible y fácil para el servidor MySQL que es muy rápido y tiene escalabilidad.
+- [![Open-Source Software][oss icon]](https://github.com/percona/percona-server) [Percona MySQL](https://www.percona.com/mysql/software/percona-server-for-mysql) - El servidor Percona para MySQL es un reemplazo de código abierto, compatible y fácil para el servidor MySQL que es muy rápido y tiene escalabilidad.
 - [![Open-Source Software][oss icon]](https://github.com/percona/percona-xtradb-cluster) [Percona XtraDB Cluster](https://www.percona.com/software/mysql-database/percona-xtradb-cluster) - Percona XtraDB Clúster tiene alta escalabilidad y es un programa de código abierto para un MySQL Clúster.
 - [![Open-Source Software][oss icon]](https://github.com/dbcli/pgcli) [pgcli](https://www.pgcli.com/) - Pgcli es una interfaz de línea de comando para Postgres que puede completar automáticamente y resaltar la sintaxis.
 - [![Open-Source Software][oss icon]](https://github.com/postgres/postgres) [PostgreSQL](https://www.postgresql.org/download/) - PostgreSQL es un sistema de base de datos capaz y codigo abierto.
@@ -363,7 +363,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://download.kde.org/stable/peruse/peruse-1.2.tar.xz.mirrorlist) [Peruse](https://peruse.kde.org/) - Una manera relajante de leer cómics.
 - [![Open-Source Software][oss icon]](https://launchpad.net/qpdfview) [qpdf](https://launchpad.net/qpdfview) - qpdfview es un visor de documentos con pestañas.
 - [![Open-Source Software][oss icon]](https://github.com/Sigil-Ebook/Sigil) [Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil es un lector de libros electrónicos EPUB multiplataforma.
-- [![Open-Source Software][oss icon]](https://git.pwmt.org/pwmt/zathura.git) [Zathura](https://pwmt.org/projects/zathura/) - Zathura es un visor de documentos muy personalizable y funcional.
+- [![Open-Source Software][oss icon]](https://git.pwmt.org/pwmt/zathura) [Zathura](https://pwmt.org/projects/zathura/) - Zathura es un visor de documentos muy personalizable y funcional.
 
 ### Editor de texto
 
@@ -540,7 +540,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://sourceforge.net/p/nethack/NetHack/ci/NetHack-3.6.0/tree/) [Nethack](https://www.nethack.org/) - Un videojuego roguelike que es de código abierto y usa gráficos ASCII.
 - [![Open-Source Software][oss icon]](https://github.com/triplea-game/triplea/) [TripleA](http://www.triplea-game.org/) - Un juego de estrategia de código abierto que es como "Axis and Allies".
 - [![Open-Source Software][oss icon]](https://github.com/Warzone2100/warzone2100) [Warzone 2100](https://www.wz2100.net/) - Un juego que es de código abierto, es una estrategia en tiempo real que sucede después de una guerra nuclear.
-- [![Open-Source Software][oss icon]](https://bazaar.launchpad.net/~widelands-dev/widelands/trunk/changes) [Widelands](https://wl.widelands.org/) - Widelands es un juego de estrategia en tiempo real que tiene juego para un solo jugador y multijugador. Está inspirado en el juego: Settlers II.
+- [![Open-Source Software][oss icon]](https://bazaar.launchpad.net/~widelands-dev/widelands/trunk/changes) [Widelands](https://www.widelands.org/) - Widelands es un juego de estrategia en tiempo real que tiene juego para un solo jugador y multijugador. Está inspirado en el juego: Settlers II.
 
 #### Videojuego de estrategia por turnos
 
@@ -777,7 +777,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://git.calcurse.org/calcurse.git/) [calcurse](http://calcurse.org/) - Un calendario y planificador para la línea de comando.
 - [California](https://wiki.gnome.org/Apps/California) - Un reemplazo de la aplicación de calendario, que puede aceptar entrada de lenguaje natural.
 - ![Nonfree][money icon] [Everdo](https://everdo.net/linux) - Everdo es una aplicación para el desarrollo y la gestión del trabajo que es multiplataforma y no un Software como servicio.
-- [![Open-Source Software][oss icon]](https://github.com/codito/gnome-pomodoro) [Gnome Pomodoro](https://gnomepomodoro.org/#download) - Un temporizador Pomodoro para GNOME que tiene muchas características.
+- [![Open-Source Software][oss icon]](https://github.com/gnome-pomodoro/gnome-pomodoro) [Gnome Pomodoro](https://gnomepomodoro.org/#download) - Un temporizador Pomodoro para GNOME que tiene muchas características.
 - [Go For It](http://manuel-kehl.de/projects/go-for-it/) - Go For It! es una simple lista de tareas, y el programa de temporizador.
 - [![Open-Source Software][oss icon]](https://github.com/mohamed-aziz/mytodo) [My Todo](https://github.com/mohamed-aziz/mytodo) - Mytodo es una lista de tareas pendientes de código abierto que le da un control completo.
 - ![Nonfree][money icon] [Pomodone App](http://pomodoneapp.com/) - PomoDoneApp es una aplicación que gestiona su flujo de trabajo utilizando la técnica Pomodoro.
@@ -863,7 +863,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](rxvt.http://cvs.schmorp.de/rxvt-unicode/) [RXVT-Unicode](http://software.schmorp.de/pkg/rxvt-unicode.html) - rxvt-unicode es una bifurcación de un emulador de terminal bien conocido.
 - [![Open-Source Software][oss icon]](https://launchpad.net/sakura) [Sakura](https://launchpad.net/sakura) - Un emulador de terminal potente compra sencillo basado en libvte.
 - [![Open-Source Software][oss icon]](https://launchpad.net/terminator) [Terminator](http://gnometerminator.blogspot.com/p/introduction.html) - Terminator es un muy capaz, y poderoso emulador de terminal con un montón de características. Es muy popular.
-- [![Open-Source Software][oss icon]](https://github.com/billiob/terminology) [Terminology](https://www.enlightenment.org/about-terminology) - La terminal bonita y rápida del escritorio Enlightenment. Tiene una cantidad sorprendente de características.
+- [![Open-Source Software][oss icon]](https://github.com/borisfaure/terminology) [Terminology](https://www.enlightenment.org/about-terminology) - La terminal bonita y rápida del escritorio Enlightenment. Tiene una cantidad sorprendente de características.
 - [![Open-Source Software][oss icon]](https://github.com/Eugeny/terminus) [Terminus](https://eugeny.github.io/terminus/) - Una aplicación terminal moderna y muy personalizable basada en tecnologías web.
 - [![Open-Source Software][oss icon]](https://github.com/nonstop/termit/wiki) [Termit](https://github.com/nonstop/termit/wiki) - un emulador de terminal simple basado en VTE, y extensible con Lua.
 - [![Open-Source Software][oss icon]](https://github.com/thestinger/termite) [Termite](https://github.com/thestinger/termite) - Un terminal basado en VTE que se centra en el teclado..
@@ -908,7 +908,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/kvm/files/) [KVM](http://www.linux-kvm.org/page/Main_Page) - KVM (Kernel-based Virtual Machine) es un programa para la virtualización de computadoras en Linux y funciona con extensiones de virtualización de Intel VT o AMD-V.
 - [LastPass](https://lastpass.com/misc_download2.php) - LastPass es un servicio de gestión de contraseñas multiplataforma que almacena contraseñas.
 - [![Open-Source Software][oss icon]](https://github.com/mobile-shell/mosh) [Mosh](https://mosh.org/#getting) - Mosh es una aplicación de terminal remoto que puede trabajar con conectividad intermitente.
-- [![Open-Source Software][oss icon]](https://github.com/jiahaog/nativefier) [Nativefier](https://github.com/jiahaog/nativefier) - Un programa que puede convertir cualquier sitio web en una aplicación de escritorio.
+- [![Open-Source Software][oss icon]](https://github.com/nativefier/nativefier) [Nativefier](https://github.com/nativefier/nativefier) - Un programa que puede convertir cualquier sitio web en una aplicación de escritorio.
 - [![Open-Source Software][oss icon]](https://g.blicky.net/ncdu.git/) [Ncdu](https://dev.yorhel.nl/ncdu) - Un analizador de uso de disco que utiliza Ncurses.
 - [![Open-Source Software][oss icon]](https://github.com/firehol/netdata) [NetData](https://my-netdata.io) - Un monitor de rendimiento y salud basado en web de próxima generación para servidores físicos y virtuales.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/peaextractor/) [PeaExtractor](http://www.peazip.org/peaextractor-unace-unrar-unzip.html) Una herramienta diseñada para descomprimir archivos que es muy fácil de usar.
@@ -1243,7 +1243,7 @@ _todos en reddit.com/r/linux y reddit.com/r/ubuntu y vozforums.com y otros foros
 
 ## Cómo contribuir
 
-- [Cómo usar github (Inglés)](https://guides.github.com/activities/forking/)
+- [Cómo usar github (Inglés)](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project)
 - [Cómo utilizar Git desde la línea de comandos.](https://rogerdudler.github.io/git-guide/index.es.html)
 - [¿Qué es Markdown?](https://github.com/LewisVo/Markdown-Tutorial/blob/master/Translation:Spanish.md) - Markdown es el método de escritura usado para crear esta lista, si quieres aprender el formato apropiado, lo mejor es que aprendas cómo usar Github Markdown.
 - [Guía alternativa para Markdown (Inglés)](https://guides.github.com/features/mastering-markdown/)

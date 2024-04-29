@@ -414,7 +414,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [![Open-Source Software][oss icon]](https://sourceforge.net/p/nethack/NetHack/ci/NetHack-3.6.0/tree/) [Nethack](https://www.nethack.org/) - Open-source rogue-like with ASCII graphics.
 - [![Open-Source Software][oss icon]](https://github.com/triplea-game/triplea/) [TripleA](http://www.triplea-game.org/) - 世界著名的开源策略游戏。
 - [![Open-Source Software][oss icon]](https://github.com/Warzone2100/warzone2100) [Warzone2100](https://wz2100.net/) - 开源即时策略/即时战术游戏。
-- [![Open-Source Software][oss icon]](https://bazaar.launchpad.net/~widelands-dev/widelands/trunk/changes) [Widelands](https://wl.widelands.org/) - Widelands is a open source RTS game with singleplayer campaigns and a multiplayer mode inspired by Settlers II.
+- [![Open-Source Software][oss icon]](https://bazaar.launchpad.net/~widelands-dev/widelands/trunk/changes) [Widelands](https://www.widelands.org/) - Widelands is a open source RTS game with singleplayer campaigns and a multiplayer mode inspired by Settlers II.
 
 #### Turn Based Strategy
 
@@ -645,7 +645,7 @@ _更新：上发布，中文版阅读地址戳[这里](https://alim0x.gitbooks.i
 - [Enpass](https://www.enpass.io/) - Enpass 安全地管理你的密码和重要信息，让你的生活更轻松。
 - [GD map](https://gdmap.sourceforge.net/) - 可视化磁盘使用量的工具。
 - [![Open-Source Software][oss icon]](https://github.com/antonio-malcolm/gloobus-preview) [Gloobus-Preview](https://github.com/antonio-malcolm/gloobus-preview) - 它能给你提供文件的快速预览，类似 [Sushi](https://github.com/GNOME/sushi)。
-- [![Open-Source Software][oss icon]](https://github.com/codito/gnome-pomodoro) [Gnome Pomodoro](https://gnomepomodoro.org/#download) - 全功能 GNOME 番茄钟。
+- [![Open-Source Software][oss icon]](https://github.com/gnome-pomodoro/gnome-pomodoro) [Gnome Pomodoro](https://gnomepomodoro.org/#download) - 全功能 GNOME 番茄钟。
 - [GnomePie](http://simmesimme.github.io/news/2016/08/24/gnome-pie-069) - Linux 桌面的一个圆形启动器。[![Open-Source Software][oss icon]](http://simmesimme.github.io/news/2016/08/24/gnome-pie-069)
 - [Gnormalize](http://gnormalize.sourceforge.net/) - 音频转换工具。
 - [GParted](http://gparted.org/) - Ubuntu/Linux 磁盘分区工具。
